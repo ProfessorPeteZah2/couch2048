@@ -241,7 +241,7 @@
 					var s = o[n];
 					t.lineTo(s.x, s.y)
 				}
-				t.fillStyle = e || "#00B0FF", t.fill()
+				t.fillStyle = e || "#b3819b", t.fill()
 			}, e.chamfer = 10, e
 		}(m),
 		g = this && this.__extends || function (t, e) {
